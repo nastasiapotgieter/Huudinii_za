@@ -35,7 +35,7 @@ The Follow Us section is present across multiple pages on the website, encouragi
 	•	TikTok: Features short videos showing the customization process, customer testimonials, and creative marketing campaigns.
 This section encourages social engagement, which is crucial for building a community around the brand. By maintaining active social media accounts, Huudini can continuously interact with customers, promote new products, and share updates.
 
-#####Design Choices:
+##### Design Choices:
 
 The website’s design focuses on simplicity and functionality. One of the key decisions made during the design process was to forego a traditional e-commerce checkout system. Instead, customers are encouraged to contact Huudini directly through Instagram or email to place orders. This approach aligns with the brand’s emphasis on building personal connections with customers. It allows for greater customization flexibility since customers can discuss their design needs with the brand before finalizing their orders.
 
